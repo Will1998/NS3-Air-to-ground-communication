@@ -1,0 +1,321 @@
+[
+    {
+        "name": "Side Building", 
+        "Dimension":{  
+            "x_min": -72.000000, 
+            "x_max": -60.000000, 
+            "y_min": 9.000000, 
+            "y_max": 37.000000, 
+            "z_min": 0.000000, 
+            "z_max": 5.000000
+        }
+    },
+    {
+        "name": "Swerim AB-1", 
+        "Dimension":{  
+            "x_min": -86.000000, 
+            "x_max": -17.000000, 
+            "y_min": 14.000000, 
+            "y_max": 24.000000, 
+            "z_min": 0.000000, 
+            "z_max": 24.000000
+        }
+    },
+    {
+        "name": "Swerim AB-2", 
+        "Dimension":{  
+            "x_min": -75.000000, 
+            "x_max": -17.000000, 
+            "y_min": 24.000000, 
+            "y_max": 46.000000, 
+            "z_min": 0.000000, 
+            "z_max": 24.000000
+        }
+    },
+    {
+        "name": "Swerim AB-3", 
+        "Dimension":{  
+            "x_min": -86.000000, 
+            "x_max": -17.000000, 
+            "y_min": 46.000000, 
+            "y_max": 59.000000, 
+            "z_min": 0.000000, 
+            "z_max": 24.000000
+        }
+    },
+    {
+        "name": "Add Health Media AB - 1", 
+        "Dimension":{  
+            "x_min": -89.000000, 
+            "x_max": -19.000000, 
+            "y_min": 70.000000, 
+            "y_max": 82.000000, 
+            "z_min": 0.000000, 
+            "z_max": 22.000000
+        }
+    },
+    {
+        "name": "Add Health Media AB - 2", 
+        "Dimension":{  
+            "x_min": -89.000000, 
+            "x_max": -5.000000, 
+            "y_min": 82.000000, 
+            "y_max": 90.000000, 
+            "z_min": 0.000000, 
+            "z_max": 22.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 1", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 70.000000, 
+            "y_min": 3.000000, 
+            "y_max": 17.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 2", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 51.000000, 
+            "y_min": 17.000000, 
+            "y_max": 23.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 3", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 33.000000, 
+            "y_min": 23.000000, 
+            "y_max": 37.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 4", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 76.000000, 
+            "y_min": 37.000000, 
+            "y_max": 50.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 5", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 61.000000, 
+            "y_min": 50.000000, 
+            "y_max": 57.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 6", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 38.000000, 
+            "y_min": 57.000000, 
+            "y_max": 73.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 7", 
+        "Dimension":{  
+            "x_min": 9.000000, 
+            "x_max": 86.000000, 
+            "y_min": 73.000000, 
+            "y_max": 83.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "Intel Sweden AB - 8", 
+        "Dimension":{  
+            "x_min": -5.000000, 
+            "x_max": 67.000000, 
+            "y_min": 83.000000, 
+            "y_max": 90.000000, 
+            "z_min": 0.000000, 
+            "z_max": 21.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 1", 
+        "Dimension":{  
+            "x_min": -84.000000, 
+            "x_max": -43.000000, 
+            "y_min": -72.000000, 
+            "y_max": -12.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 2", 
+        "Dimension":{  
+            "x_min": -43.000000, 
+            "x_max": -36.000000, 
+            "y_min": -64.000000, 
+            "y_max": -19.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 3", 
+        "Dimension":{  
+            "x_min": -36.000000, 
+            "x_max": -15.000000, 
+            "y_min": -72.000000, 
+            "y_max": -19.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 4", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": -4.000000, 
+            "y_min": -19.000000, 
+            "y_max": -12.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 5", 
+        "Dimension":{  
+            "x_min": -4.000000, 
+            "x_max": 6.000000, 
+            "y_min": -19.000000, 
+            "y_max": -16.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 6", 
+        "Dimension":{  
+            "x_min": 6.000000, 
+            "x_max": 38.000000, 
+            "y_min": -19.000000, 
+            "y_max": -12.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 7", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": 52.000000, 
+            "y_min": -30.000000, 
+            "y_max": -19.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 8", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": 41.000000, 
+            "y_min": -54.000000, 
+            "y_max": -30.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 9", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": 52.000000, 
+            "y_min": -65.000000, 
+            "y_max": -54.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 10", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": 38.000000, 
+            "y_min": -72.000000, 
+            "y_max": -65.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 11", 
+        "Dimension":{  
+            "x_min": -15.000000, 
+            "x_max": 17.000000, 
+            "y_min": -102.000000, 
+            "y_max": -72.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 12", 
+        "Dimension":{  
+            "x_min": 45.000000, 
+            "x_max": 69.000000, 
+            "y_min": -102.000000, 
+            "y_max": -95.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 13", 
+        "Dimension":{  
+            "x_min": -78.000000, 
+            "x_max": -56.000000, 
+            "y_min": -102.000000, 
+            "y_max": -95.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 14", 
+        "Dimension":{  
+            "x_min": -83.000000, 
+            "x_max": 74.000000, 
+            "y_min": -112.000000, 
+            "y_max": -102.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "KTH Kista Electrum - 15", 
+        "Dimension":{  
+            "x_min": -42.000000, 
+            "x_max": 48.000000, 
+            "y_min": -120.000000, 
+            "y_max": -112.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    }
+]

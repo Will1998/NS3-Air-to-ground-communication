@@ -1,0 +1,288 @@
+[
+    {
+        "name": "Skysense AB",
+        "Dimension":{
+            "x_min": -18,
+            "x_max": 18,
+            "y_min": -37,
+            "y_max": 37,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "KSAK Motorflygförbund",
+        "Dimension":{
+            "x_min": 50,
+            "x_max": 75,
+            "y_min": 5,
+            "y_max": 49,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "Klintberg & Way AB",
+        "Dimension":{
+            "x_min": -32,
+            "x_max": -16,
+            "y_min": -120,
+            "y_max": -80,
+            "z_min": 0,
+            "z_max": 14
+        }
+    },
+    {
+        "name": "Small building 1",
+        "Dimension":{
+            "x_min": 87,
+            "x_max": 93,
+            "y_min": -100.5,
+            "y_max": -93,
+            "z_min": 0,
+            "z_max": 4
+        }
+    },
+    {
+        "name": "Small building 2",
+        "Dimension":{
+            "x_min": -38,
+            "x_max": -32.5,
+            "y_min": 24,
+            "y_max": 34,
+            "z_min": 0,
+            "z_max": 3
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 1",
+        "Dimension":{
+            "x_min": 96,
+            "x_max": 159,
+            "y_min": 20,
+            "y_max": 43,
+            "z_min": 0,
+            "z_max": 12
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 2",
+        "Dimension":{
+            "x_min": 144,
+            "x_max": 159,
+            "y_min": -33,
+            "y_max": 20,
+            "z_min": 0,
+            "z_max": 12
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 3",
+        "Dimension":{
+            "x_min": 110,
+            "x_max": 165,
+            "y_min": -51,
+            "y_max": -33,
+            "z_min": 0,
+            "z_max": 12
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 4",
+        "Dimension":{
+            "x_min": 159,
+            "x_max": 165,
+            "y_min": -51,
+            "y_max": 1,
+            "z_min": 0,
+            "z_max": 12
+        }
+    },
+    {
+        "name": "Unknown - 1",
+        "Dimension":{
+            "x_min": 126,
+            "x_max": 154,
+            "y_min": -139,
+            "y_max": -90,
+            "z_min": 0,
+            "z_max": 8
+        }
+    },
+    {
+        "name": "Unknown - 2",
+        "Dimension":{
+            "x_min": 154,
+            "x_max": 163,
+            "y_min": -123,
+            "y_max": -83,
+            "z_min": 0,
+            "z_max": 8
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 1",
+        "Dimension":{
+            "x_min": -16,
+            "x_max": -9,
+            "y_min": -130,
+            "y_max": -100,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 2",
+        "Dimension":{
+            "x_min": -9,
+            "x_max": 57,
+            "y_min": -188,
+            "y_max": -100,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 3",
+        "Dimension":{
+            "x_min": 57,
+            "x_max": 59,
+            "y_min": -116,
+            "y_max": -100,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 4",
+        "Dimension":{
+            "x_min": 57,
+            "x_max": 72,
+            "y_min": -140,
+            "y_max": -116,
+            "z_min": 0,
+            "z_max": 9
+        }
+    },
+    {
+        "name": "Axlås Solidlås AB Alarm & Access Control - 1",
+        "Dimension":{
+            "x_min": -69,
+            "x_max": -59,
+            "y_min": -162,
+            "y_max": -80,
+            "z_min": 0,
+            "z_max": 15
+        }
+    },
+    {
+        "name": "Axlås Solidlås AB Alarm & Access Control - 2",
+        "Dimension":{
+            "x_min": -91,
+            "x_max": -59,
+            "y_min": -162,
+            "y_max": -109,
+            "z_min": 0,
+            "z_max": 15
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 1",
+        "Dimension":{
+            "x_min": -69,
+            "x_max": -44,
+            "y_min": -31,
+            "y_max": 35,
+            "z_min": 0,
+            "z_max": 17
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 2",
+        "Dimension":{
+            "x_min": -111,
+            "x_max": -93,
+            "y_min": -31,
+            "y_max": 35,
+            "z_min": 0,
+            "z_max": 17
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 3",
+        "Dimension":{
+            "x_min": -93,
+            "x_max": -69,
+            "y_min": -31,
+            "y_max": -9,
+            "z_min": 0,
+            "z_max": 17
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 4",
+        "Dimension":{
+            "x_min": -93,
+            "x_max": -69,
+            "y_min": 12,
+            "y_max": 35,
+            "z_min": 0,
+            "z_max": 17
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 1",
+        "Dimension":{
+            "x_min": 4,
+            "x_max": 62,
+            "y_min": 171,
+            "y_max": 177,
+            "z_min": 0,
+            "z_max": 26
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 2",
+        "Dimension":{
+            "x_min": -13,
+            "x_max": 62,
+            "y_min": 177,
+            "y_max": 193,
+            "z_min": 0,
+            "z_max": 26
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 3",
+        "Dimension":{
+            "x_min": -1,
+            "x_max": 62,
+            "y_min": 193,
+            "y_max": 218,
+            "z_min": 0,
+            "z_max": 26
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 4",
+        "Dimension":{
+            "x_min": -13,
+            "x_max": 62,
+            "y_min": 218,
+            "y_max": 237,
+            "z_min": 0,
+            "z_max": 26
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 5",
+        "Dimension":{
+            "x_min": 4,
+            "x_max": 62,
+            "y_min": 237,
+            "y_max": 243,
+            "z_min": 0,
+            "z_max": 26
+        }
+    }
+]

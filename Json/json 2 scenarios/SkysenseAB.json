@@ -1,0 +1,288 @@
+[
+    {
+        "name": "SkySense AB", 
+        "Dimension":{  
+            "x_min": -18.000000, 
+            "x_max": 18.000000, 
+            "y_min": -37.000000, 
+            "y_max": 37.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "KSAK Motorflygförbund", 
+        "Dimension":{  
+            "x_min": 50.000000, 
+            "x_max": 75.000000, 
+            "y_min": 5.000000, 
+            "y_max": 49.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "Klintberg & Way AB", 
+        "Dimension":{  
+            "x_min": -32.000000, 
+            "x_max": -16.000000, 
+            "y_min": -120.000000, 
+            "y_max": -80.000000, 
+            "z_min": 0.000000, 
+            "z_max": 14.000000
+        }
+    },
+    {
+        "name": "Small building 1", 
+        "Dimension":{  
+            "x_min": 87.000000, 
+            "x_max": 93.000000, 
+            "y_min": -100.500000, 
+            "y_max": -93.000000, 
+            "z_min": 0.000000, 
+            "z_max": 4.000000
+        }
+    },
+    {
+        "name": "Small building 2", 
+        "Dimension":{  
+            "x_min": -38.000000, 
+            "x_max": -32.500000, 
+            "y_min": 24.000000, 
+            "y_max": 34.000000, 
+            "z_min": 0.000000, 
+            "z_max": 3.000000
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 1", 
+        "Dimension":{  
+            "x_min": 96.000000, 
+            "x_max": 159.000000, 
+            "y_min": 20.000000, 
+            "y_max": 43.000000, 
+            "z_min": 0.000000, 
+            "z_max": 12.000000
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 2", 
+        "Dimension":{  
+            "x_min": 144.000000, 
+            "x_max": 159.000000, 
+            "y_min": -33.000000, 
+            "y_max": 20.000000, 
+            "z_min": 0.000000, 
+            "z_max": 12.000000
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 3", 
+        "Dimension":{  
+            "x_min": 110.000000, 
+            "x_max": 165.000000, 
+            "y_min": -51.000000, 
+            "y_max": -33.000000, 
+            "z_min": 0.000000, 
+            "z_max": 12.000000
+        }
+    },
+    {
+        "name": "La Leif Arvidsson AB - 4", 
+        "Dimension":{  
+            "x_min": 159.000000, 
+            "x_max": 165.000000, 
+            "y_min": -51.000000, 
+            "y_max": 1.000000, 
+            "z_min": 0.000000, 
+            "z_max": 12.000000
+        }
+    },
+    {
+        "name": "Unknown - 1", 
+        "Dimension":{  
+            "x_min": 126.000000, 
+            "x_max": 154.000000, 
+            "y_min": -139.000000, 
+            "y_max": -90.000000, 
+            "z_min": 0.000000, 
+            "z_max": 8.000000
+        }
+    },
+    {
+        "name": "Unknown - 2", 
+        "Dimension":{  
+            "x_min": 154.000000, 
+            "x_max": 163.000000, 
+            "y_min": -123.000000, 
+            "y_max": -83.000000, 
+            "z_min": 0.000000, 
+            "z_max": 8.000000
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 1", 
+        "Dimension":{  
+            "x_min": -16.000000, 
+            "x_max": -9.000000, 
+            "y_min": -130.000000, 
+            "y_max": -100.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 2", 
+        "Dimension":{  
+            "x_min": -9.000000, 
+            "x_max": 57.000000, 
+            "y_min": -188.000000, 
+            "y_max": -100.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 3", 
+        "Dimension":{  
+            "x_min": 57.000000, 
+            "x_max": 59.000000, 
+            "y_min": -116.000000, 
+            "y_max": -100.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "Bavaria Sverige Bil AB - 4", 
+        "Dimension":{  
+            "x_min": 57.000000, 
+            "x_max": 72.000000, 
+            "y_min": -140.000000, 
+            "y_max": -116.000000, 
+            "z_min": 0.000000, 
+            "z_max": 9.000000
+        }
+    },
+    {
+        "name": "Axlås Solidlås AB Alarm & Access Control - 1", 
+        "Dimension":{  
+            "x_min": -69.000000, 
+            "x_max": -59.000000, 
+            "y_min": -162.000000, 
+            "y_max": -80.000000, 
+            "z_min": 0.000000, 
+            "z_max": 15.000000
+        }
+    },
+    {
+        "name": "Axlås Solidlås AB Alarm & Access Control - 2", 
+        "Dimension":{  
+            "x_min": -91.000000, 
+            "x_max": -59.000000, 
+            "y_min": -162.000000, 
+            "y_max": -109.000000, 
+            "z_min": 0.000000, 
+            "z_max": 15.000000
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 1", 
+        "Dimension":{  
+            "x_min": -69.000000, 
+            "x_max": -44.000000, 
+            "y_min": -31.000000, 
+            "y_max": 35.000000, 
+            "z_min": 0.000000, 
+            "z_max": 17.000000
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 2", 
+        "Dimension":{  
+            "x_min": -111.000000, 
+            "x_max": -93.000000, 
+            "y_min": -31.000000, 
+            "y_max": 35.000000, 
+            "z_min": 0.000000, 
+            "z_max": 17.000000
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 3", 
+        "Dimension":{  
+            "x_min": -93.000000, 
+            "x_max": -69.000000, 
+            "y_min": -31.000000, 
+            "y_max": -9.000000, 
+            "z_min": 0.000000, 
+            "z_max": 17.000000
+        }
+    },
+    {
+        "name": "Huawei Technologies Sweden AB  - 4", 
+        "Dimension":{  
+            "x_min": -93.000000, 
+            "x_max": -69.000000, 
+            "y_min": 12.000000, 
+            "y_max": 35.000000, 
+            "z_min": 0.000000, 
+            "z_max": 17.000000
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 1", 
+        "Dimension":{  
+            "x_min": 4.000000, 
+            "x_max": 62.000000, 
+            "y_min": 171.000000, 
+            "y_max": 177.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 2", 
+        "Dimension":{  
+            "x_min": -13.000000, 
+            "x_max": 62.000000, 
+            "y_min": 177.000000, 
+            "y_max": 193.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 3", 
+        "Dimension":{  
+            "x_min": -1.000000, 
+            "x_max": 62.000000, 
+            "y_min": 193.000000, 
+            "y_max": 218.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 4", 
+        "Dimension":{  
+            "x_min": -13.000000, 
+            "x_max": 62.000000, 
+            "y_min": 218.000000, 
+            "y_max": 237.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    },
+    {
+        "name": "Ericsson, building 27 entrance  - 5", 
+        "Dimension":{  
+            "x_min": 4.000000, 
+            "x_max": 62.000000, 
+            "y_min": 237.000000, 
+            "y_max": 243.000000, 
+            "z_min": 0.000000, 
+            "z_max": 26.000000
+        }
+    }
+]
